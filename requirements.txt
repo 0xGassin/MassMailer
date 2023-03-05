@@ -1,0 +1,8 @@
+pandas
+getopt
+email.message
+ssl
+smtplib
+python-dotenv
+pathlib
+six
