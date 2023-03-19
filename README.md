@@ -4,16 +4,16 @@ MassMailer is a free open source recursive email sender based on python. It util
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.txt.
-
 ```bash
 git clone github.com/0xGassin/MassMailer
 ```
 
+Enter the directory on the bot
 ```bash
 cd MassMailer
 ```
 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.txt.
 ```bash
 pip3 install -r requirements.txt
 ```
