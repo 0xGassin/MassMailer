@@ -4,6 +4,8 @@ MassMailer is a free open source recursive email sender based on python. It util
 
 ## Installation
 
+Clone the GitHub repository
+
 ```bash
 git clone github.com/0xGassin/MassMailer
 ```
